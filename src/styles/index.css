@@ -10,3 +10,13 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+#app li{
+    display:inline-flex;
+    font-size: 40px;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    line-height: 40px;
+    
+    
+}
